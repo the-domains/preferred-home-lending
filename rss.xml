@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Preferred Home Lending]]></title>
         <description><![CDATA[Preferred Home Lending]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/preferred-home-lending/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 14:09:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 19:15:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/preferred-home-lending/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Offering Conventional, VA and FHA loans throughout Texas</p>]]></description>
-            <link>undefinedoffering-conventional-va-and-fha-loans-throughout-texas/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f5ab7b-a2ce-4b02-8397-c923672c77d7.jpg">]]></description>
+            <link>https://thegrid.ai/preferred-home-lending/offering-conventional-va-and-fha-loans-throughout-texas/index.html</link>
             <guid isPermaLink="false">b3b9903b-a4ab-40d3-8746-c4792d28c9e0</guid>
-            <pubDate>Thu, 26 May 2016 14:09:23 GMT</pubDate>
+            <pubDate>Fri, 27 May 2016 19:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
